@@ -1,0 +1,1316 @@
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tarda el reembolso?
+A: Los reembolsos se procesan en un plazo de 5 a 7 días hábiles tras recibir el producto.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Dónde se fabrican sus productos?
+A: Nuestros productos son fabricados localmente y también importamos de proveedores certificados.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Ofrecen financiación?
+A: Sí, puede pagar a cuotas con tarjetas participantes.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Qué empresa de mensajería utilizan?
+A: Trabajamos con empresas confiables como DHL, FedEx y Servientrega.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Dónde veo el historial de mis pedidos?
+A: Inicie sesión y acceda a la sección 'Mis pedidos' en su perfil.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Puedo pedir un producto personalizado?
+A: Sí, algunos productos pueden personalizarse. Escríbanos para más información.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿Por qué fue rechazado mi pago?
+A: Puede deberse a un error con la tarjeta o falta de fondos. Intente nuevamente o use otro método.
+
+Q: ¿Cómo devuelvo un producto defectuoso?
+A: Envíenos fotos del defecto a soporte@tienda.com para iniciar el proceso.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Tienen atención telefónica?
+A: Sí, puede llamarnos al 01 8000 123 456 de lunes a viernes de 8 a.m. a 6 p.m.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Qué hago si recibí un producto equivocado?
+A: Lamentamos el error, escríbanos con una foto del producto recibido y lo solucionaremos.
+
+Q: Olvidé mi contraseña, ¿cómo la recupero?
+A: Haga clic en '¿Olvidó su contraseña?' y siga las instrucciones.
+
+Q: ¿Hacen envíos internacionales?
+A: Actualmente solo realizamos envíos dentro del territorio nacional.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Dónde entrego el producto a devolver?
+A: Le enviaremos una guía para que entregue el producto en la mensajería más cercana.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Puedo rastrear mi pedido?
+A: Sí, una vez que se haya enviado, le enviaremos un número de seguimiento por correo.
+
+Q: ¿El sitio es seguro para pagos?
+A: Sí, contamos con certificados SSL y pasarelas de pago seguras.
+
+Q: ¿Cuánto tiempo tengo para hacer una devolución?
+A: Dispone de hasta 15 días calendario desde la entrega para solicitar la devolución.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Cómo creo una cuenta?
+A: Haga clic en 'Registrarse' en la parte superior y complete sus datos personales.
+
+Q: ¿Cuánto tarda en llegar un pedido?
+A: El tiempo de entrega varía entre 2 y 5 días hábiles dependiendo de su ubicación.
+
+Q: ¿Puedo pagar contra entrega?
+A: Sí, ofrecemos pago contra entrega en algunas ciudades principales.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿Tienen tallas disponibles?
+A: Sí, las tallas disponibles están listadas en cada producto. Si no aparece, es porque está agotada.
+
+Q: ¿Puedo modificar mi pedido después de realizarlo?
+A: Solo si aún no ha sido enviado. Contáctenos lo antes posible.
+
+Q: ¿Puedo programar la entrega para una fecha específica?
+A: Por ahora no contamos con esa opción, pero intentamos entregar lo más pronto posible.
+
+Q: ¿Qué métodos de pago aceptan?
+A: Aceptamos tarjetas de crédito, débito, pagos por PSE y transferencias bancarias.
+
+Q: ¿La devolución tiene costo?
+A: No, ofrecemos devoluciones gratuitas en todos nuestros productos.
+
+Q: ¿El producto viene con garantía?
+A: Sí, todos nuestros productos tienen garantía mínima de 6 meses.

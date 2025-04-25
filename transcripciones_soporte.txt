@@ -1,0 +1,11 @@
+hola, ¿cuándo llegará mi pedido? su pedido está en camino y llegará en 2-3 días hábiles. gracias por contactarnos. 
+¿cómo puedo devolver un producto? por favor, contáctenos en soporte@tienda.com para iniciar el proceso de devolución. 
+mi pedido llegó dañado, ¿qué hago? lamentamos el inconveniente, envíenos fotos del daño a soporte@tienda.com. 
+¿cuál es el tiempo de entrega? los pedidos se entregan en 2-5 días hábiles dependiendo de su ubicación. 
+quiero cancelar mi pedido. por favor, contáctenos lo antes posible para procesar la cancelación. 
+¿puedo cambiar la dirección de envío? sí, contáctenos con la nueva dirección antes de que el pedido sea enviado. 
+el producto no es lo que esperaba. ofrecemos devoluciones gratuitas, contáctenos para más detalles. 
+¿tienen envío express? sí, el envío express está disponible por un costo adicional de $5. 
+mi pago fue rechazado, ¿qué pasó? verifique los detalles de su tarjeta o contáctenos para asistencia. 
+¿dónde está mi reembolso? los reembolsos se procesan en 5-7 días hábiles tras recibir el producto. 
+[Repetir y variar las frases para alcanzar ~10,000 caracteres, incluyendo más ejemplos como consultas sobre promociones, seguimiento de pedidos, etc.]

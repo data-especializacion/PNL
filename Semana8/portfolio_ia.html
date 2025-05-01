@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Creado por Daniel Vargas F 2025 UNIMINUTO-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Evidencias: NLP y Deep Learning</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #34495e;
+            --text-color: #333;
+            --highlight-color: #f39c12;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #f5f7fa;
+            transition: all 0.3s ease;
+            scroll-behavior: smooth;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            margin: 0 0 10px 0;
+            font-size: 2.5rem;
+        }
+
+        header h2 {
+            margin: 0 0 20px 0;
+            font-size: 1.8rem;
+            font-weight: normal;
+        }
+
+        .course-info {
+            background-color: rgba(255, 255, 255, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .course-info p {
+            margin: 5px 0;
+            font-size: 1.1rem;
+            text-align: center;
+        }
+
+        .course-info strong {
+            font-weight: 600;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            color: var(--primary-color);
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--light-color);
+            margin: 40px 0 20px;
+        }
+        
+        h3 {
+            font-size: 1.5rem;
+            color: var(--secondary-color);
+            margin: 25px 0 15px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .card {
+            border-left: 4px solid var(--primary-color);
+            padding: 15px;
+            background-color: var(--light-color);
+            margin-bottom: 20px;
+            border-radius: 0 5px 5px 0;
+        }
+        
+        .highlight {
+            background-color: #fffacd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            border-left: 4px solid var(--highlight-color);
+        }
+        
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: var(--primary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            margin: 10px 0;
+            cursor: pointer;
+            border: none;
+        }
+        
+        .button:hover {
+            background-color: var(--dark-color);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .tab-container {
+            margin: 20px 0;
+        }
+        
+        .tab-content {
+            display: none;
+            padding: 20px;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-top: none;
+            border-radius: 0 0 5px 5px;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .quote {
+            font-style: italic;
+            border-left: 4px solid var(--primary-color);
+            padding-left: 20px;
+            margin: 20px 0;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 50px;
+            background-color: var(--dark-color);
+            color: white;
+            border-radius: 0 0 10px 10px;
+        }
+        
+        .citation {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 15px;
+            padding-left: 20px;
+            border-left: 2px solid #ddd;
+        }
+        
+        #toc {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 5px;
+            margin-bottom: 30px;
+        }
+        
+        #toc h3 {
+            margin-top: 0;
+        }
+        
+        #toc ul {
+            list-style-type: none;
+        }
+        
+        #toc ul li {
+            margin: 10px 0;
+        }
+        
+        #toc ul li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        
+        #toc ul li a:hover {
+            color: var(--accent-color);
+            padding-left: 5px;
+        }
+        
+        /* Estilos para el acordeón */
+        .accordion {
+            margin-bottom: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            background-color: white;
+            transition: var(--transition);
+        }
+
+        .accordion:hover {
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        .accordion-header {
+            background: linear-gradient(45deg, var(--light-color), #ffffff);
+            padding: 18px 25px;
+            cursor: pointer;
+            font-weight: 600;
+            color: var(--dark-color);
+            position: relative;
+            display: flex;
+            align-items: center;
+            transition: var(--transition);
+        }
+
+        .accordion-header::after {
+            content: '+';
+            position: absolute;
+            right: 25px;
+            font-size: 1.5rem;
+            font-weight: 300;
+            color: var(--primary-color);
+            transition: transform 0.3s ease;
+        }
+
+        .accordion-header.active::after {
+            content: '−';
+            transform: rotate(180deg);
+        }
+
+        .accordion-header:hover {
+            background: linear-gradient(45deg, #f1f5f9, #ffffff);
+            color: var(--primary-color);
+        }
+
+        .accordion-content {
+            max-height: 0;
+            overflow: hidden;
+            background-color: white;
+            transition: max-height 0.3s ease;
+        }
+
+        .accordion-content-inner {
+            padding: 20px 25px;
+            border-top: 1px solid #e5e7eb;
+            color: var(--text-color);
+            line-height: 1.8;
+        }
+        
+        .model-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            grid-gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .model-card {
+            background-color: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .model-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .model-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        
+        .model-content {
+            padding: 15px;
+        }
+        
+        .model-footer {
+            background-color: #f5f5f5;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: var(--primary-color);
+            color: white;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            z-index: 100;
+        }
+        
+        .back-to-top.visible {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            h2 {
+                font-size: 1.75rem;
+            }
+            
+            h3 {
+                font-size: 1.25rem;
+            }
+            
+            .model-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            width: 100%;
+            margin-top: 40px;
+            position: relative;
+            bottom: 0;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        .footer p {
+            margin: 0;
+            font-size: 16px;
+            font-weight: 500;
+
+        }
+
+        .imagen {
+            /* Tamaño y ajuste básico */
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto; /* Centrar la imagen */
+
+            /* Bordes redondeados */
+            border-radius: 15px;
+
+            /* Sombra suave */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+
+            /* Borde decorativo */
+            border: 3px solid #ffffff;
+
+            /* Filtro inicial para mejorar colores */
+            filter: brightness(1.1) contrast(1.2);
+
+            /* Transición suave para efectos interactivos */
+            transition: all 0.3s ease-in-out;
+        }
+
+/* Efecto al pasar el ratón (hover) */
+.imagen:hover {
+    /* Escala ligera para dar sensación de profundidad */
+    transform: scale(1.05);
+    
+    /* Sombra más pronunciada */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+    
+    /* Filtro para resaltar la imagen */
+    filter: brightness(1.2) contrast(1.3) saturate(1.3);
+    
+    /* Rotación sutil (opcional) */
+    transform: scale(1.05) rotate(2deg);
+}
+
+/* Efecto de carga (opcional, para navegadores modernos) */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.imagen{
+    animation: fadeIn 1s ease-in-out;
+}
+</style>
+</head>
+<body>
+    <div class="container">
+     <header>
+        <h1>Portafolio de Evidencias</h1>
+        <h2 style="color: white; border: none;">Aplicaciones Modernas en Procesamiento de Lenguaje Natural</h2>
+        <img src="uniminutovirtual.png" class="imagen" alt="Imagen Uniminuto Virtual">
+        <div class="course-info">
+            <p><strong>Curso:</strong> Procesamiento Natural del Lenguaje</p>
+            <p><strong>Especialización:</strong> Inteligencia Artificial</p>
+            <p><strong>Presentado por:</br></strong>Daniel Alejandro Vargas Figueredo</p>
+            <p>German Giovanni López Santos</p>
+            <br>
+            <p>Uniminuto 2025</p>
+        </div>
+    </header>
+
+    <div id="toc">
+        <h3>Contenido</h3>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#gpt">Transformers, BERT y GPT</a></li>
+            <li><a href="#deep-learning">Beneficios y Desafíos del Deep Learning</a></li>
+            <li><a href="#comparativa">Cuadro Comparativo: GPT, Qwen, Grok, DeepSeek y Gemini</a></li>
+            <li><a href="#experimentos">Experimentos con Ambigüedad y Contexto</a></li>
+            <li><a href="#aplicaciones">Aplicaciones en Entornos Empresariales</a></li>
+            <li><a href="#conclusiones">Conclusiones</a></li>
+            <li><a href="#referencias">Referencias</a></li>
+        </ul>
+    </div>
+
+    <section id="introduccion" class="section">
+        <h2>Introducción</h2>
+        <p>La Actividad de la semana 8 nos ayuda a comprender como el procesamiento del lenguaje natural (NLP) ha experimentado una transformación significativa con la llegada de las técnicas modernas de deep learning. Estos avances han permitido el desarrollo de modelos capaces de comprender, interpretar y generar lenguaje humano con una precisión sorprendente. En este portafolio, exploraremos las aplicaciones de estas tecnologías en diversos contextos empresariales, analizando sus fundamentos técnicos, ventajas, limitaciones y el impacto que están teniendo en la transformación digital no solo en las organizaciones sino en diferentes ámbitos antes solo reservados para el talento y sensibilidad humana.</p>
+
+        <p>El surgimiento de arquitecturas basadas en transformers ha revolucionado el campo del NLP, estableciendo nuevos estándares de rendimiento en tareas como la traducción automática, el resumen de textos, la generación de contenido y la comprensión de consultas en lenguaje natural. Modelos como GPT (Generative Pre-trained Transformer), Qwen, Grok, DeepSeek y Gemini representan la vanguardia de estas tecnologías, cada uno con características y capacidades distintivas que los hacen particularmente adecuados para diferentes aplicaciones.</p>
+
+        <div class="highlight">
+            <p>Este portafolio tiene como objetivo principal evaluar las aplicaciones del lenguaje natural en diferentes entornos, identificando áreas de oportunidad, limitaciones actuales y tendencias futuras en la implementación de estas tecnologías.</p>
+        </div>
+    </section>
+
+    <section id="gpt" class="section">
+        <h2>Transformers, BERT y GPT: Revolución en el Procesamiento de Lenguaje Natural</h2>
+
+        <h3>¿Qué son los Transformers?</h3>
+
+        <p>La arquitectura Transformer, introducida en el artículo seminal "Attention Is All You Need" (Vaswani et al., 2017), representa un punto de inflexión en el procesamiento de lenguaje natural. A diferencia de las arquitecturas recurrentes (RNN) o convolucionales (CNN) anteriores, los Transformers se basan íntegramente en mecanismos de atención para modelar relaciones entre todas las palabras de una secuencia, independientemente de su posición.</p>
+
+        <div class="card">
+            <p>"La arquitectura Transformer elimina la necesidad de recurrencia y convoluciones por completo, dependiendo exclusivamente del mecanismo de atención para capturar dependencias globales entre la entrada y la salida" (Vaswani et al., 2017, p. 2).</p>
+        </div>
+
+        <p>Los componentes clave de un Transformer incluyen:</p>
+
+        <ul>
+            <li><strong>Mecanismo de auto-atención (self-attention):</strong> Permite al modelo asignar pesos diferentes a distintas partes del texto de entrada, calculando la relevancia de cada palabra con respecto a las demás.</li>
+            <li><strong>Atención de cabezas múltiples (multi-head attention):</strong> Extiende la auto-atención para capturar diferentes tipos de dependencias semánticas y sintácticas.</li>
+            <li><strong>Embeddings posicionales:</strong> Inyectan información sobre la posición de las palabras, ya que el modelo no procesa secuencialmente.</li>
+            <li><strong>Arquitectura codificador-decodificador:</strong> El codificador procesa la entrada y genera representaciones contextuales, mientras que el decodificador utiliza estas representaciones para generar la salida.</li>
+        </ul>
+
+        <div class="highlight">
+            <p>"Los Transformers representan un cambio de paradigma en NLP, al ofrecer paralelización completa durante el entrenamiento y capacidad para capturar dependencias a larga distancia sin los problemas de gradientes desvanecientes típicos de las RNN" (Campesato, 2021, p. 248).</p>
+        </div>
+
+        <h3>¿Qué es BERT?</h3>
+
+        <p>BERT (Bidirectional Encoder Representations from Transformers), desarrollado por Google en 2018, se basa en la arquitectura del codificador del Transformer para crear representaciones contextuales bidireccionales de texto. A diferencia de modelos unidireccionales anteriores, BERT es capaz de considerar simultáneamente el contexto tanto a la izquierda como a la derecha de cada palabra.</p>
+
+        <p>Las innovaciones clave de BERT incluyen:</p>
+
+        <ol>
+            <li><strong>Pre-entrenamiento bidireccional:</strong> Utiliza las tareas de Masked Language Modeling (MLM) y Next Sentence Prediction (NSP) para aprender representaciones contextuales robustas.</li>
+            <li><strong>Aprendizaje de representaciones de palabras en contexto:</strong> La misma palabra puede tener diferentes representaciones según su contexto (p. ej., "banco" como institución financiera o como mueble).</li>
+            <li><strong>Transferencia eficiente a múltiples tareas:</strong> El modelo pre-entrenado puede adaptarse a diferentes tareas de NLP con mínimo ajuste específico.</li>
+        </ol>
+
+        <div class="card">
+            <p>"BERT revolucionó el campo del NLP al introducir la bidireccionalidad profunda en los modelos de lenguaje pre-entrenados, logrando resultados estado del arte en múltiples tareas de comprensión del lenguaje con un diseño relativamente simple" (Srinivasa, 2018, p. 230).</p>
+        </div>
+
+        <p>BERT ha demostrado un rendimiento excepcional en tareas como la clasificación de textos, reconocimiento de entidades nombradas, respuesta a preguntas y análisis de sentimiento. Sus variantes incluyen RoBERTa (con pre-entrenamiento optimizado), DistilBERT (versión destilada más pequeña) y ALBERT (versión con parámetros compartidos para reducir tamaño).</p>
+
+        <h3>¿Qué es GPT?</h3>
+
+        <p>GPT (Generative Pre-trained Transformer) es una arquitectura de modelo de lenguaje basada en transformers que ha revolucionado el campo del procesamiento de lenguaje natural. Desarrollado inicialmente por OpenAI, este modelo utiliza técnicas avanzadas de aprendizaje profundo para comprender y generar texto de manera contextualmente relevante y coherente.</p>
+
+        <p>A diferencia de BERT, que utiliza un codificador bidireccional, GPT se basa en la arquitectura del decodificador del Transformer y opera de manera unidireccional (autoregresiva), prediciendo tokens secuencialmente de izquierda a derecha.</p>
+
+        <div class="card">
+            <p>"Los modelos GPT destacan por su capacidad generativa y su habilidad para adaptarse a contextos diversos con mínima instrucción específica, gracias a su arquitectura de decodificador profundo y su vasto entrenamiento autoregresivo" (Campesato, 2021, p. 252).</p>
+        </div>
+
+        <p>El proceso de desarrollo de GPT implica dos fases principales:</p>
+
+        <ol>
+            <li><strong>Pre-entrenamiento:</strong> El modelo es entrenado con vastas cantidades de texto no etiquetado para aprender representaciones generales del lenguaje. Durante esta fase, GPT aprende a predecir la siguiente palabra en una secuencia dada.</li>
+            <li><strong>Fine-tuning:</strong> El modelo pre-entrenado es posteriormente ajustado para tareas específicas utilizando conjuntos de datos más pequeños y etiquetados.</li>
+        </ol>
+
+        <h3>Evolución de GPT</h3>
+
+        <p>La familia de modelos GPT ha experimentado una evolución significativa desde su introducción:</p>
+
+        <ul>
+            <li><strong>GPT-1 (2018):</strong> La versión inicial con 117 millones de parámetros.</li>
+            <li><strong>GPT-2 (2019):</strong> Una versión ampliada con hasta 1.5 mil millones de parámetros, con capacidades mejoradas de generación de texto.</li>
+            <li><strong>GPT-3 (2020):</strong> Un salto cuántico con 175 mil millones de parámetros, demostrando capacidades emergentes como la programación, traducción y resolución de problemas complejos.</li>
+            <li><strong>GPT-4 (2023):</strong> Una versión multimodal con capacidades visuales además de textuales, con un número no revelado de parámetros pero significativamente más grande y potente que sus predecesores.</li>
+        </ul>
+
+        <div class="highlight">
+            <p>"El aumento dramático en el tamaño de los modelos ha llevado a capacidades emergentes que no estaban presentes en modelos más pequeños, lo que sugiere que el escalamiento es un camino viable para mejorar el rendimiento en tareas de NLP" (Zhou, 2022, p. 3).</p>
+        </div>
+
+        <h3>Comparativa: BERT vs GPT</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Característica</th>
+                    <th>BERT</th>
+                    <th>GPT</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Arquitectura base</strong></td>
+                    <td>Codificador Transformer</td>
+                    <td>Decodificador Transformer</td>
+                </tr>
+                <tr>
+                    <td><strong>Direccionalidad</strong></td>
+                    <td>Bidireccional</td>
+                    <td>Unidireccional (autoregresivo)</td>
+                </tr>
+                <tr>
+                    <td><strong>Objetivo principal</strong></td>
+                    <td>Comprensión del lenguaje</td>
+                    <td>Generación del lenguaje</td>
+                </tr>
+                <tr>
+                    <td><strong>Tarea de pre-entrenamiento</strong></td>
+                    <td>Masked Language Modeling</td>
+                    <td>Next Token Prediction</td>
+                </tr>
+                <tr>
+                    <td><strong>Casos de uso principales</strong></td>
+                    <td>Clasificación, extracción, QA</td>
+                    <td>Generación de texto, resumen, traducción</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>Funcionamiento Interno de los Transformers</h3>
+
+        <p>La arquitectura fundamental de los Transformers, que sustenta tanto BERT como GPT, opera de la siguiente manera cuando procesa texto:</p>
+
+        <ol>
+            <li>Convierte cada palabra (o token) en un vector de embedding.</li>
+            <li>Añade información posicional para mantener el orden de las palabras.</li>
+            <li>Procesa estos embeddings a través de múltiples capas de atención y redes feed-forward.</li>
+            <li>En BERT, genera representaciones contextuales para cada token.</li>
+            <li>En GPT, genera predicciones de probabilidad para el siguiente token en la secuencia.</li>
+        </ol>
+
+        <p>La capacidad de estos modelos para comprender y generar texto coherente se debe a su entrenamiento en corpus masivos de texto, que les permiten aprender patrones lingüísticos, conocimientos de sentido común y representaciones semánticas del mundo real.</p>
+    </section>
+
+    <section id="deep-learning" class="section">
+        <h2>Beneficios y Desafíos del Deep Learning en NLP</h2>
+
+        <div class="tab-container">
+            <div id="tabs">
+                <ul>
+                    <li><a href="#tabs-1">Beneficios</a></li>
+                    <li><a href="#tabs-2">Desafíos</a></li>
+                    <li><a href="#tabs-3">Impacto Empresarial</a></li>
+                </ul>
+                <div id="tabs-1">
+                    <h3>Beneficios de las Técnicas Modernas de Deep Learning</h3>
+                    <ul>
+                        <li><strong>Comprensión contextual mejorada:</strong> Los modelos basados en transformers captan relaciones contextualmente relevantes en el texto, mejorando significativamente la comprensión semántica.</li>
+                        <li><strong>Generación de contenido de alta calidad:</strong> Capacidad para producir texto que imita el estilo, tono y estructura del lenguaje humano.</li>
+                        <li><strong>Transferencia de conocimiento:</strong> Los modelos pre-entrenados pueden adaptarse a múltiples tareas con relativamente pocos ejemplos (few-shot learning).</li>
+                        <li><strong>Procesamiento multilingüe:</strong> Capacidad para comprender y generar contenido en múltiples idiomas sin necesidad de entrenamiento específico para cada lengua.</li>
+                        <li><strong>Automatización de tareas cognitivas complejas:</strong> Desde análisis de sentimiento hasta resumen automático y traducción, estas tecnologías pueden automatizar tareas que tradicionalmente requerían intervención humana.</li>
+                    </ul>
+                    <div class="citation">
+                        <p>"Los modelos de deep learning para NLP han demostrado un rendimiento superior en prácticamente todas las tareas de referencia, superando a los enfoques tradicionales basados en reglas o en aprendizaje superficial" (Srinivasa, 2018, p. 228).</p>
+                    </div>
+                </div>
+                <div id="tabs-2">
+                    <h3>Desafíos y Limitaciones</h3>
+                    <ul>
+                        <li><strong>Requisitos computacionales elevados:</strong> El entrenamiento y la inferencia de modelos grandes requieren recursos computacionales significativos, lo que puede suponer una barrera de entrada para organizaciones pequeñas.</li>
+                        <li><strong>Opacidad y explicabilidad:</strong> La naturaleza de "caja negra" de estos modelos dificulta entender cómo llegan a determinadas conclusiones o generaciones.</li>
+                        <li><strong>Sesgos y equidad:</strong> Los modelos tienden a perpetuar y amplificar los sesgos presentes en los datos de entrenamiento.</li>
+                        <li><strong>Alucinaciones y fiabilidad:</strong> Pueden generar información que parece plausible pero es factualmente incorrecta.</li>
+                        <li><strong>Privacidad y seguridad:</strong> Preocupaciones sobre el uso de datos sensibles en el entrenamiento y posibles filtraciones de información.</li>
+                    </ul>
+                    <div class="citation">
+                        <p>"A pesar de sus impresionantes capacidades, los modelos de deep learning para NLP enfrentan desafíos significativos en términos de explicabilidad, equidad y control, que deben abordarse para su implementación responsable en entornos empresariales críticos" (Ganegedara, 2018, p. 120).</p>
+                    </div>
+                </div>
+                <div id="tabs-3">
+                    <h3>Impacto en Entornos Empresariales</h3>
+                    <p>La aplicación de técnicas modernas de deep learning en NLP está transformando diversos aspectos de las operaciones empresariales:</p>
+                    <ul>
+                        <li><strong>Atención al cliente:</strong> Chatbots y asistentes virtuales capaces de mantener conversaciones naturales y resolver consultas complejas.</li>
+                        <li><strong>Análisis de mercado:</strong> Procesamiento de grandes volúmenes de feedback de clientes, reseñas y menciones en redes sociales para extraer insights accionables.</li>
+                        <li><strong>Automatización documental:</strong> Extracción y clasificación automática de información de documentos no estructurados como contratos, facturas y reportes.</li>
+                        <li><strong>Personalización de experiencias:</strong> Análisis de preferencias y comportamientos de usuarios para ofrecer recomendaciones y contenido personalizado.</li>
+                        <li><strong>Investigación y desarrollo:</strong> Aceleración de procesos de investigación mediante el análisis automático de literatura científica y patentes.</li>
+                    </ul>
+                    <div class="citation">
+                        <p>"La integración de modelos avanzados de NLP en procesos empresariales está permitiendo niveles de automatización y personalización sin precedentes, redefiniendo las expectativas de eficiencia operativa y experiencia del cliente" (Zhou, 2022, p. 5).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="comparativa" class="section">
+        <h2>Cuadro Comparativo: Modelos de IA para NLP</h2>
+
+        <p>A continuación se presenta una comparativa detallada de cinco modelos de vanguardia en el procesamiento de lenguaje natural: GPT, Qwen, Grok, DeepSeek y Gemini. Este análisis comprende tanto sus aspectos técnicos como sus capacidades, limitaciones y casos de uso principales.</p>
+
+        <div style="overflow-x: auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Características</th>
+                        <th>GPT (OpenAI)</th>
+                        <th>Qwen (Alibaba)</th>
+                        <th>Grok (xAI)</th>
+                        <th>DeepSeek</th>
+                        <th>Gemini (Google)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Desarrollador</strong></td>
+                        <td>OpenAI</td>
+                        <td>Alibaba Cloud</td>
+                        <td>xAI (Elon Musk)</td>
+                        <td>DeepSeek AI</td>
+                        <td>Google DeepMind</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Año de lanzamiento</strong></td>
+                        <td>GPT-1 (2018) hasta GPT-4 (2023)</td>
+                        <td>2023</td>
+                        <td>2023</td>
+                        <td>2023</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Arquitectura base</strong></td>
+                        <td>Transformer (decodificador)</td>
+                        <td>Transformer (adaptación)</td>
+                        <td>Arquitectura tipo transformer</td>
+                        <td>Transformer con optimizaciones</td>
+                        <td>Transformer multimodal</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tamaño (parámetros)</strong></td>
+                        <td>GPT-3: 175B, GPT-4: No revelado</td>
+                        <td>Qwen-7B hasta Qwen-72B</td>
+                        <td>Aproximadamente 33B</td>
+                        <td>7B hasta 236B</td>
+                        <td>Gemini Ultra: >500B estimados</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Capacidades multimodales</strong></td>
+                        <td>GPT-4V: Texto e imágenes</td>
+                        <td>Qwen-VL: Texto e imágenes</td>
+                        <td>Principalmente texto</td>
+                        <td>DeepSeek-VL: Texto e imágenes</td>
+                        <td>Texto, imágenes, audio y video</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Licencia/Disponibilidad</strong></td>
+                        <td>Propietario, API comercial</td>
+                        <td>Versiones open-source y comerciales</td>
+                        <td>Acceso vía subscripción</td>
+                        <td>Modelos open-source y API comercial</td>
+                        <td>Propietario, API comercial</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Fortalezas principales</strong></td>
+                        <td>Generación de texto natural, versatilidad en tareas, razonamiento</td>
+                        <td>Eficiencia computacional, soporte multilingüe (esp. chino)</td>
+                        <td>Actualización en tiempo real, humor, respuestas no censuradas</td>
+                        <td>Especialización en código, matemáticas y razonamiento</td>
+                        <td>Capacidades multimodales avanzadas, razonamiento matemático</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Contexto (tokens)</strong></td>
+                        <td>GPT-3: 4K, GPT-4: 8K-128K</td>
+                        <td>8K-32K según versión</td>
+                        <td>8K, con extensiones</td>
+                        <td>4K-128K según versión</td>
+                        <td>Hasta 1M en Gemini Ultra</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Casos de uso destacados</strong></td>
+                        <td>Asistencia general, generación de contenido, programación</td>
+                        <td>E-commerce, análisis en chino, asistencia empresarial</td>
+                        <td>Búsqueda en tiempo real, análisis sin filtros</td>
+                        <td>Programación, investigación científica</td>
+                        <td>Análisis multimodal, investigación científica</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Entrenamiento técnico</strong></td>
+                        <td>Preentrenamiento + RLHF</td>
+                        <td>Preentrenamiento + SFT + RLHF</td>
+                        <td>Preentrenamiento + información en tiempo real</td>
+                        <td>Preentrenamiento + especialización por dominio</td>
+                        <td>Preentrenamiento multimodal + MoE</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Capacidad de manejo de código</strong></td>
+                        <td>Muy alta (GPT-4)</td>
+                        <td>Alta</td>
+                        <td>Media-Alta</td>
+                        <td>Muy alta (especializado)</td>
+                        <td>Muy alta</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h3>Detalles Técnicos de los Modelos</h3>
+
+        <div class="model-grid">
+            <div class="model-card">
+                <div class="model-header" style="background-color: #10a37f;">GPT</div>
+                <div class="model-content">
+                    <p>GPT utiliza una arquitectura de transformer decodificador con aprendizaje autoregresivo. Se entrena mediante predicción del siguiente token y posteriormente ajustado con RLHF (Reinforcement Learning from Human Feedback).</p>
+                    <p>La versión más reciente, GPT-4, incorpora capacidades multimodales permitiendo el procesamiento de imágenes junto con texto.</p>
+                </div>
+                <div class="model-footer">
+                    <p>Referencia técnica: <a href="#">Campesato (2021)</a></p>
+                </div>
+            </div>
+
+            <div class="model-card">
+                <div class="model-header" style="background-color: #e67e22;">Qwen</div>
+                <div class="model-content">
+                    <p>Qwen (también conocido como Tongyi Qianwen) fue desarrollado por Alibaba Cloud. Implementa optimizaciones específicas para mejorar la eficiencia computacional y el rendimiento en idiomas asiáticos, especialmente el chino.</p>
+                    <p>Su arquitectura incluye modificaciones específicas a la base Transformer para mejorar el procesamiento de múltiples idiomas y una tokenización optimizada para idiomas asiáticos.</p>
+                </div>
+                <div class="model-footer">
+                    <p>Lanzamiento: 2023</p>
+                </div>
+            </div>
+
+            <div class="model-card">
+                <div class="model-header" style="background-color: #3498db;">Grok</div>
+                <div class="model-content">
+                    <p>Grok, desarrollado por xAI (fundada por Elon Musk), se posiciona como un modelo de IA con acceso a información en tiempo real y capacidad para responder preguntas con cierto grado de humor.</p>
+                    <p>Utiliza una arquitectura basada en Transformer con modificaciones propietarias y actualización continua de información.</p>
+                </div>
+                <div class="model-footer">
+                    <p>Lanzamiento: Noviembre 2023</p>
+                </div>
+            </div>
+
+            <div class="model-card">
+                <div class="model-header" style="background-color: #9b59b6;">DeepSeek</div>
+                <div class="model-content">
+                    <p>DeepSeek se caracteriza por su especialización en tareas técnicas como programación y matemáticas. Ofrece versiones de diferentes tamaños para diferentes casos de uso.</p>
+                    <p>Su arquitectura incorpora técnicas específicas para mejorar el razonamiento lógico y matemático.</p>
+                </div>
+                <div class="model-footer">
+                    <p>Referencia: Zhou (2022)</p>
+                </div>
+            </div>
+
+            <div class="model-card">
+                <div class="model-header" style="background-color: #e74c3c;">Gemini</div>
+                <div class="model-content">
+                    <p>Gemini, desarrollado por Google DeepMind, representa su modelo multimodal más avanzado, capaz de procesar y combinar información de texto, imágenes, audio y video.</p>
+                    <p>Utiliza una arquitectura Transformer con componentes MoE (Mixture of Experts) y optimizaciones para procesamiento multimodal.</p>
+                </div>
+                <div class="model-footer">
+                    <p>Lanzamiento: Diciembre 2023</p>
+                </div>
+            </div>
+        </div>
+
+        <h3>Arquitecturas de Modelos: Características Distintivas</h3>
+
+        <div class="accordion">
+            <div class="accordion-header">GPT: Generación y Versatilidad</div>
+            <div class="accordion-content">
+                <p>La arquitectura GPT (Generative Pre-trained Transformer) se caracteriza por:</p>
+                <ul>
+                    <li>Diseño autoregresivo basado en decodificador que excele en tareas generativas</li>
+                    <li>Tokens contextuales que permiten el manejo de prompts cada vez más complejos</li>
+                    <li>Escalado eficiente que ha demostrado mejoras significativas con el aumento de parámetros</li>
+                    <li>En GPT-4, capacidad multimodal que permite comprender imágenes y responder preguntas sobre ellas</li>
+                </ul>
+                <div class="citation">
+                    <p>"El escalado de los modelos GPT ha revelado capacidades emergentes imprevistas, como el razonamiento en cadena y la resolución de problemas complejos" (Campesato, 2021, p. 254).</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">BERT: Bidireccionalidad y Comprensión</div>
+            <div class="accordion-content">
+                <p>BERT (Bidirectional Encoder Representations from Transformers) se distingue por:</p>
+                <ul>
+                    <li>Arquitectura de codificador que procesa el contexto bidireccional completo</li>
+                    <li>Entrenamiento mediante Masked Language Modeling, que oculta aleatoriamente tokens</li>
+                    <li>Optimización para tareas de comprensión del lenguaje y clasificación</li>
+                    <li>Capacidad para capturar matices semánticos a través de su atención bidireccional</li>
+                </ul>
+                <div class="citation">
+                    <p>"BERT representa un avance significativo en la capacidad de los modelos para entender el contexto semántico completo, al considerar simultáneamente todas las palabras en una oración" (Ganegedara, 2018, p. 142).</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">Qwen: Optimización Multilingüe</div>
+            <div class="accordion-content">
+                <p>Las características distintivas de Qwen incluyen:</p>
+                <ul>
+                    <li>Tokenización específica diseñada para idiomas logográficos como el chino</li>
+                    <li>Entrenamiento especial con corpus multilingües balanceados</li>
+                    <li>Optimizaciones de rendimiento para ejecutarse eficientemente en hardware cloud</li>
+                    <li>Versiones de diferentes tamaños (de 7B a 72B parámetros) para diferentes necesidades</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">Gemini: Procesamiento Multimodal Avanzado</div>
+            <div class="accordion-content">
+                <p>Gemini incorpora arquitecturas avanzadas para procesamiento multimodal:</p>
+                <ul>
+                    <li>Integración nativa de diferentes modalidades (texto, imágenes, audio, video)</li>
+                    <li>Transformers con capas de atención cruzada entre modalidades</li>
+                    <li>Arquitectura de Mixture of Experts (MoE) que activa especialistas según la tarea</li>
+                    <li>Escalabilidad extrema (Ultra supera 500B parámetros según estimaciones)</li>
+                </ul>
+                <div class="citation">
+                    <p>"Los modelos multimodales como Gemini representan la próxima frontera en NLP, permitiendo integrar conocimiento de múltiples fuentes para una comprensión más holística" (Zhou, 2022, p. 6).</p>
+                </div>
+            </div>
+            <div class="accordion-header">GPT: Generación y Versatilidad</div>
+            <div class="accordion-content">
+                <p>La arquitectura GPT se basa en un decodificador transformer y es altamente eficiente para generación de texto.</p>
+                <ul>
+                    <li>Diseño autoregresivo que permite generar texto palabra por palabra con coherencia contextual.</li>
+                    <li>Entrenamiento masivo sobre datos no estructurados para capacidades emergentes.</li>
+                    <li>Muy adecuado para tareas como redacción, programación, resumen y más.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">BERT: Bidireccionalidad y Comprensión</div>
+            <div class="accordion-content">
+                <p>BERT utiliza un codificador transformer con atención bidireccional.</p>
+                <ul>
+                    <li>Preentrenado con MLM y NSP para entender relaciones entre frases y palabras.</li>
+                    <li>Ideal para tareas de comprensión como análisis de sentimiento y respuesta a preguntas.</li>
+                    <li>Base de múltiples variantes como RoBERTa, ALBERT, DistilBERT.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">Qwen: Optimización Multilingüe</div>
+            <div class="accordion-content">
+                <p>Qwen se adapta a idiomas logográficos y tareas multilingües.</p>
+                <ul>
+                    <li>Tokenización específica para el idioma chino y otros lenguajes asiáticos.</li>
+                    <li>Balance entre tamaño del modelo y rendimiento computacional.</li>
+                    <li>Modelos desde 7B hasta 72B parámetros.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">DeepSeek: Razonamiento Técnico</div>
+            <div class="accordion-content">
+                <p>DeepSeek está optimizado para tareas especializadas como matemáticas y programación.</p>
+                <ul>
+                    <li>Entrenamiento orientado a razonamiento formal.</li>
+                    <li>Alto rendimiento en problemas estructurados y de análisis lógico.</li>
+                    <li>Multimodal con capacidades de visión en DeepSeek-VL.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="accordion">
+            <div class="accordion-header">Gemini: Procesamiento Multimodal</div>
+            <div class="accordion-content">
+                <p>Gemini es el modelo más avanzado de Google con capacidades multimodales integradas.</p>
+                <ul>
+                    <li>Capaz de interpretar texto, imágenes, audio y video simultáneamente.</li>
+                    <li>Utiliza MoE (Mixture of Experts) para optimizar respuestas.</li>
+                    <li>Alto rendimiento en tareas científicas y de razonamiento profundo.</li>
+                </ul>
+            </div>
+            <section id="experimentos" class="section">
+                <h2>Experimentos con Ambigüedad y Contexto</h2>
+                <p>En esta sección se plantearon cinco preguntas ambiguas a varios modelos de lenguaje (GPT-4, Qwen, Grok, DeepSeek y Gemini), con el objetivo de analizar su capacidad de interpretación contextual y manejo del conocimiento factual.</p>
+
+                <h3>Preguntas y respuestas por modelo</h3>
+
+                <h4>1. ¿Simón Bolívar estuvo sentado en el banco ayer?</h4>
+                <ul>
+                    <li><strong>GPT-4:</strong> "Simón Bolívar falleció en el siglo XIX, por lo tanto no pudo estar en un banco recientemente."</li>
+                    <li><strong>Qwen:</strong> "Simón Bolívar, conocido como 'El Libertador', falleció el 17 de diciembre de 1830 en Santa Marta, Colombia. Por lo tanto, es imposible que haya estado sentado en un banco ayer (o en cualquier fecha posterior a su muerte)."</li>
+                    <li><strong>Grok:</strong> "No, Simón Bolívar no estuvo sentado en ningún banco ayer. Falleció en 1830, por lo que no puede estar presente en eventos recientes."</li>
+                    <li><strong>DeepSeek:</strong> "Simón Bolívar, conocido como 'El Libertador' de varias naciones sudamericanas, falleció el 17 de diciembre de 1830 en Santa Marta, Colombia. Por lo tanto, no es posible que estuviera sentado en un banco ayer."</li>
+                    <li><strong>Gemini:</strong> "Simón Bolívar falleció el 17 de diciembre de 1830. Por lo tanto, no pudo haber estado sentado en un banco ayer, 30 de abril de 2025."</li>
+                </ul>
+
+                <h4>2. ¿El unicornio de cinco cabezas puede votar en Colombia?</h4>
+                <ul>
+                    <li><strong>GPT-4:</strong> "Son escenarios ficticios o imposibles en el contexto real actual."</li>
+                    <li><strong>Qwen:</strong> "En el marco de la legislación colombiana, solo los ciudadanos humanos mayores de 18 años, con registro en el censo electoral y sin inhabilidades legales, tienen derecho a votar en elecciones."</li>
+                    <li><strong>Grok:</strong> "No, un unicornio de cinco cabezas no puede votar en Colombia."</li>
+                    <li><strong>DeepSeek:</strong> "No, un unicornio de cinco cabezas no puede votar en Colombia (ni en ningún país)."</li>
+                    <li><strong>Gemini:</strong> "No, un unicornio de cinco cabezas no puede votar en Colombia."</li>
+                </ul>
+
+                <h4>3. ¿La Revolución Francesa tuvo lugar en el año 3000?</h4>
+                <ul>
+                    <li><strong>GPT-4:</strong> "El modelo indicó que existe una falta de coherencia temporal y factual en la pregunta."</li>
+                    <li><strong>Qwen:</strong> "La Revolución Francesa fue un evento histórico real que tuvo lugar entre 1789 y 1799, no en el año 3000."</li>
+                    <li><strong>Grok:</strong> "No, la Revolución Francesa no tuvo lugar en el año 3000. Ocurrió entre 1789 y 1799 en Francia."</li>
+                    <li><strong>DeepSeek:</strong> "No, la Revolución Francesa no ocurrió en el año 3000, sino entre 1789 y 1799."</li>
+                    <li><strong>Gemini:</strong> "La Revolución Francesa no tuvo lugar en el año 3000. Este importante evento histórico se desarrolló entre 1789 y 1799."</li>
+                </ul>
+
+                <h4>4. ¿Cristóbal Colón publicó su último TikTok en 2022?</h4>
+                <ul>
+                    <li><strong>GPT-4:</strong> "El modelo identificó la falta de coherencia temporal en la pregunta."</li>
+                    <li><strong>Qwen:</strong> "¡No, Cristóbal Colón no pudo publicar un TikTok en 2022! Colón falleció el 20 de mayo de 1506 en Valladolid, España, hace más de 500 años."</li>
+                    <li><strong>Grok:</strong> "No, Cristóbal Colón no publicó ningún TikTok, ya que vivió en el siglo XV (1451-1506)."</li>
+                    <li><strong>DeepSeek:</strong> "No, Cristóbal Colón no publicó un TikTok en 2022 (ni en ningún año), ya que murió en 1506."</li>
+                    <li><strong>Gemini:</strong> "Claro que no. Cristóbal Colón falleció en 1506. La plataforma TikTok se lanzó mucho después, en 2016. Sería imposible que publicara algo en 2022."</li>
+                </ul>
+
+                <h4>5. ¿El presidente actual de Marte gobierna bajo la Constitución Terrestre?</h4>
+                <ul>
+                    <li><strong>GPT-4:</strong> "El modelo explicó que son escenarios ficticios o imposibles en el contexto real actual."</li>
+                    <li><strong>Qwen:</strong> "La pregunta mezcla realidad y ficción."</li>
+                    <li><strong>Grok:</strong> "No existe un 'presidente de Marte' ni un gobierno establecido en el planeta, por lo que la pregunta no se aplica a la realidad actual."</li>
+                    <li><strong>DeepSeek:</strong> "No existe un 'presidente de Marte' ni un gobierno marciano reconocido, por lo que la Constitución Terrestre no aplica."</li>
+                    <li><strong>Gemini:</strong> "Actualmente no hay un presidente de Marte, ya que Marte no tiene un gobierno ni está habitado por humanos de forma permanente."</li>
+                </ul>
+
+                <div class="highlight">
+                    <p>Las respuestas de todos los modelos reflejan su capacidad para distinguir entre lo históricamente posible y lo imaginario, identificando inconsistencias temporales y conceptuales en las preguntas. Sin embargo, se observan diferencias en el nivel de detalle, contextualización temporal y estilo de respuesta entre los distintos modelos.</p>
+                </div>
+
+                <h3>Análisis comparativo de las respuestas</h3>
+
+                <h4>Similitudes entre los modelos</h4>
+                <ul>
+                    <li><strong>Reconocimiento temporal:</strong> Todos los modelos identificaron correctamente las imposibilidades temporales (Bolívar, Colón).</li>
+                    <li><strong>Realidad vs. Ficción:</strong> Distinguieron entre entidades ficticias (unicornio) y conceptos inexistentes (gobierno marciano).</li>
+                    <li><strong>Precisión histórica:</strong> Proporcionaron fechas correctas para eventos históricos cuando era pertinente.</li>
+                    <li><strong>Rechazo lógico:</strong> Ningún modelo aceptó las premisas falsas como verdaderas.</li>
+                </ul>
+
+                <h4>Diferencias entre los modelos</h4>
+                <ul>
+                    <li><strong>Nivel de detalle:</strong> Qwen y DeepSeek proporcionaron datos históricos más específicos (fechas exactas, lugares).</li>
+                    <li><strong>Estilo comunicativo:</strong> Grok ofreció respuestas más concisas, mientras que Gemini y Qwen tendieron a elaborar más.</li>
+                    <li><strong>Contextualización:</strong> Gemini fue el único que explícitamente mencionó la fecha actual en su respuesta sobre Bolívar.</li>
+                    <li><strong>Elementos adicionales:</strong> Gemini añadió contexto sobre TikTok (fundado en 2016), y fue más específico sobre la situación actual de Marte.</li>
+                </ul>
+
+                <h3>Ventajas y desventajas en tareas empresariales</h3>
+                <ul>
+                    <li><strong>Ventajas:</strong> 
+                        <ul>
+                            <li>Detección de anomalías e inconsistencias en datos.</li>
+                            <li>Respuesta automática a consultas poco claras o mal formuladas.</li>
+                            <li>Análisis de coherencia en entradas de datos.</li>
+                            <li>Capacidad para rechazar premisas falsas sin generar información incorrecta.</li>
+                            <li>Resistencia a la manipulación por planteamientos ilógicos.</li>
+                        </ul>
+                    </li>
+                    <li><strong>Desventajas:</strong> 
+                        <ul>
+                            <li>Riesgo de "alucinaciones" en datos críticos o ambiguos.</li>
+                            <li>Posibilidad de interpretar literalmente preguntas mal formuladas pero lógicamente posibles.</li>
+                            <li>Falta de explicabilidad en decisiones complejas.</li>
+                            <li>Niveles variables de detalle entre modelos que podrían afectar la consistencia.</li>
+                            <li>Dificultad para distinguir entre preguntas genuinamente confusas y aquellas que buscan probar al sistema.</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>Conclusión</h3>
+                <p>Los experimentos demuestran que los modelos de lenguaje actuales poseen una sólida capacidad para identificar y rechazar premisas inconsistentes con la realidad histórica o física. Esta característica resulta especialmente valiosa para filtrar consultas erróneas en entornos empresariales donde la precisión factual es crítica. Sin embargo, se observan diferencias significativas en el nivel de detalle, elaboración y contextualización entre los distintos modelos, lo que podría influir en su idoneidad para tareas específicas.</p>
+
+                <p>El análisis sugiere que la elección del modelo más apropiado dependería del equilibrio deseado entre concisión y detalle, así como de la necesidad de contextualización temporal y explicaciones complementarias en las respuestas generadas.</p>
+            </section>
+            <section id="aplicaciones" class="section">
+                <h2>Aplicaciones en Entornos Empresariales</h2>
+                <p>Las tecnologías de NLP basadas en deep learning están transformando diversos sectores:</p>
+                <ul>
+                    <li><strong>Finanzas:</strong> Automatización de reportes, análisis de sentimientos en mercados, monitoreo de riesgos.</li>
+                    <li><strong>Salud:</strong> Interpretación de notas clínicas, generación de resúmenes de historias médicas.</li>
+                    <li><strong>Legal:</strong> Extracción de cláusulas relevantes, búsqueda inteligente de jurisprudencia.</li>
+                    <li><strong>Educación:</strong> Tutores virtuales personalizados, clasificación automática de textos.</li>
+                    <li><strong>Marketing:</strong> Análisis de tendencias, generación de campañas publicitarias personalizadas.</li>
+                </ul>
+            </section>
+            <section id="conclusiones" class="section">
+                <h2>Conclusiones</h2>
+                <p>El avance del procesamiento del lenguaje natural mediante modelos de deep learning como BERT, GPT y otros ha abierto nuevas posibilidades para la automatización inteligente y la comprensión profunda del lenguaje humano. Las empresas que adopten estas tecnologías pueden obtener ventajas competitivas significativas, siempre que consideren los desafíos éticos, técnicos y de transparencia involucrados.</p>
+                <p>El futuro del NLP se dirige hacia modelos más eficientes, interpretables y responsables, capaces de integrarse en sistemas de decisión críticos sin comprometer la veracidad ni la equidad.</p>
+            </section>
+
+            <section id="referencias" class="section">
+                <h2>Referencias</h2>
+                <ul>
+                    <li>Campesato, O. (2021). <em>Natural language processing fundamentals for developers</em>. Mercury Learning and Information.</li>
+                    <li>Ganegedara, T. (2018). <em>Natural language processing with TensorFlow: Teach language to machines using Python's deep learning library</em>. Packt Publishing.</li>
+                    <li>Srinivasa, B. (2018). <em>Natural language processing and computational linguistics: A practical guide to text analysis with Python, Gensim, Spacy, and Keras</em>. Packt Publishing.</li>
+                    <li>Zhou, Y. (2022). Natural Language Processing with Improved Deep Learning Neural Networks. <em>Scientific Programming, 2022</em>, 1–8. https://doi.org/10.1155/2022/123456</li>
+                    <li>Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). <em>Attention Is All You Need</em>. arXiv. https://arxiv.org/abs/1706.03762</li>
+                    <li>Jurafsky, D., & Martin, J. H. (2023). <em>Speech and Language Processing</em> (3rd ed.). Stanford. https://web.stanford.edu/~jurafsky/slp3/9.pdf</li>
+                </ul>
+            </section>
+            </div
+            <div class="accordion">
+
+            </div>
+
+            <script>
+                $(document).ready(function() {
+                    try {
+                        $('.accordion-header').click(function() {
+                            var $this = $(this);
+                            var $content = $this.next('.accordion-content');
+                            var $allContents = $('.accordion-content').not($content);
+                            var $allHeaders = $('.accordion-header').not($this);
+
+            // Cerrar otros acordeones
+                            $allContents.css('max-height', 0);
+                            $allHeaders.removeClass('active');
+
+            // Toggle del acordeón actual
+                            if ($content.css('max-height') == '0px') {
+                                $content.css('max-height', $content[0].scrollHeight + 'px');
+                                $this.addClass('active');
+                            } else {
+                                $content.css('max-height', 0);
+                                $this.removeClass('active');
+                            }
+                        });
+
+        // Inicializar los tabs de jQuery UI
+                        $("#tabs").tabs();
+                    } catch (e) {
+                        console.error("Error en la inicialización de jQuery UI o accordions:", e);
+                    }
+
+
+                });
+
+
+            </script>
+
+<!--Start of Tawk.to Script-->
+<!--End of Tawk.to Script-->
+
+
+</section>
+
+</div>
+
+
+</body>
+
+<footer class="footer">
+    <div class="footer-content">
+        <p>Curso PNL - Especialización en Inteligencia Artificial 2025</p>
+    </div>
+</footer>
+
+</html>
